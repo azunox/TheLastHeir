@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b167b8c762b234dbbabe783e290938a6, type: 3}
+  m_Name: Merchant01
+  m_EditorClassIdentifier: 
+  npcName: Merchant
+  sentence: HI Player
+  choices:
+  - choiceText: HI
+    nextDialogue: {fileID: 11400000, guid: d2f28cb51b955482e9016fde06b57b04, type: 2}
+  - choiceText: H!
+    nextDialogue: {fileID: 11400000, guid: bbfa7e3b7c3864b2b8f744722626299c, type: 2}
+  - choiceText: GoodBye
+    nextDialogue: {fileID: 11400000, guid: f6663a0cbc3cc4f588a35b80f2230f4c, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Element Multiplier
+  m_EditorClassIdentifier: Assembly-CSharp:TheLastHeir.Runtime.Structs:ElementMultiplier
+  entries:
+  - Element: 0
+    Multiplier: 1
+  - Element: 1
+    Multiplier: 1
+  - Element: 2
+    Multiplier: 1
+  - Element: 3
+    Multiplier: 1
+  defaultMultiplier: 1

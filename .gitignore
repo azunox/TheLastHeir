@@ -1,0 +1,52 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# (옵션) 프로젝트 폴더 안에 내보낸 빌드 산출물까지 같이 둘 때
+ExportedProject/
+.gradle/
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# Unity가 생성하는 프로젝트/솔루션 파일들
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.bak
+*.ncb
+*.log
+
+# OS별 잡파일
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# (옵션) 빌드 산출물/패키지 파일
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+Build_The_Last_Heir.app/
+
+Assets/05_Models/Nature Pack - Winter Environment/

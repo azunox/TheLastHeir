@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e378bf4f5d549d38af48f8586278b6a, type: 3}
+  m_Name: State_PressureMove
+  m_EditorClassIdentifier: Assembly-CSharp::TheLastHeir.Runtime.Entity.Enemy.StateSO
+  enterActions:
+  - {fileID: 11400000, guid: 827300dd264f64acfb4510a0765d084f, type: 2}
+  - {fileID: 11400000, guid: c731c2b620a264dfe90ed95160fbe0e5, type: 2}
+  - {fileID: 11400000, guid: 7579e2fed1d7046fba4756c7b328af06, type: 2}
+  - {fileID: 11400000, guid: f7ed62d026fe44244ba4fcf35beeb983, type: 2}
+  tickActions: []
+  transitions:
+  - {fileID: 11400000, guid: 3203379eaed2f4fb484529603962f758, type: 2}
+  - {fileID: 11400000, guid: 8aeb7bcc30940443ea05c4de0c5e9b0b, type: 2}

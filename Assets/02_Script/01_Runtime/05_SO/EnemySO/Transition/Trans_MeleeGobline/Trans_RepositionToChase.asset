@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c7d84d6dbc4ff394cafb11e03695ea, type: 3}
+  m_Name: Trans_RepositionToChase
+  m_EditorClassIdentifier: 
+  targetState: {fileID: 11400000, guid: 1cf7e68f41d4c4d708a466d6e5b7a12a, type: 2}
+  conditions:
+  - {fileID: 11400000, guid: dc13d12c4a25944baa2efb7b02be9d39, type: 2}
+  - {fileID: 11400000, guid: fffbbc110ba804094be0f71da503229f, type: 2}
+  conditionLogic: 0

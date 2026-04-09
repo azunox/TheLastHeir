@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: 89095b422a38242999a8c44b0da60c37
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'SmHuma_Goblin_AttackBackHand_Damage_1H' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_AttackBackHand_Enter_1H' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'SmHuma_Goblin_AttackDodgeStrike_1H'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'SmHuma_Goblin_AttackForeHand_Damage_1H' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_AttackForeHand_Enter_1H' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'SmHuma_Goblin_AttackQuickStrikes_1H'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'SmHuma_Goblin_Death_nonimpactful' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_IdlePatrol_Random02_1H' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'NPC L Foot [LLft ]' has translation animation that
+      will be discarded.\n\t'NPC L Toe0 [LToe]' has translation animation that will
+      be discarded.\n\t'NPC R Foot [Rft ]' has translation animation that will be
+      discarded.\n\t'NPC R Toe0 [RToe]' has translation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_MoveLeft_1H_Attack' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'SmHuma_Goblin_RecoilLeft_1H'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'SmHuma_Goblin_RecoilRight_1H' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_RunForward_1H' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'SmHuma_Goblin_SpellCasting_Enter'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'SmHuma_Goblin_SpellCasting_Exit' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_StaggerBack_1H' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'NPC EarL_1' has translation animation that will be discarded.\n\t'NPC
+      EarR_1' has translation animation that will be discarded.\n\nClip 'SmHuma_Goblin_StaggerLeft_1H'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'SmHuma_Goblin_StaggerRight_1H' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_WeaponBlock_1H' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'NPC L Toe0 [LToe]' has translation animation
+      that will be discarded.\n\t'NPC R Foot [Rft ]' has translation animation that
+      will be discarded.\n\t'NPC R Toe0 [RToe]' has translation animation that will
+      be discarded.\n\nClip 'SmHuma_Goblin_WeaponBlock_Enter_1H' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'SmHuma_Goblin_WeaponBlock_Lower_1H' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'NPC Pelvis [Pelv]' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'SmHuma_Goblin_WeaponBlock_Optimal_Reaction_1H'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'NPC
+      Pelvis [Pelv]' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackBackHand_Damage_1H
+      takeName: SmHuma_Goblin_AttackBackHand_Damage_1H
+      internalID: -3021561021991570370
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackBackHand_Enter_1H
+      takeName: SmHuma_Goblin_AttackBackHand_Enter_1H
+      internalID: -8912918583296744065
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackBackHand_Idle_1H
+      takeName: SmHuma_Goblin_AttackBackHand_Idle_1H
+      internalID: -6659543193339696306
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackDodgeStrike_1H
+      takeName: SmHuma_Goblin_AttackDodgeStrike_1H
+      internalID: 505103781574782327
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackForeHand_Damage_1H
+      takeName: SmHuma_Goblin_AttackForeHand_Damage_1H
+      internalID: 6285493205205385277
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackForeHand_Enter_1H
+      takeName: SmHuma_Goblin_AttackForeHand_Enter_1H
+      internalID: -1855599614421572329
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackForeHand_Idle_1H
+      takeName: SmHuma_Goblin_AttackForeHand_Idle_1H
+      internalID: -548382398085376656
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackPower01_1H
+      takeName: SmHuma_Goblin_AttackPower01_1H
+      internalID: -205331978628510853
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_AttackQuickStrikes_1H
+      takeName: SmHuma_Goblin_AttackQuickStrikes_1H
+      internalID: -2238601272725947133
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_Death_nonimpactful
+      takeName: SmHuma_Goblin_Death_nonimpactful
+      internalID: -9191213874479745256
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_Idle
+      takeName: SmHuma_Goblin_Idle
+      internalID: 5650807575419515206
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_IdlePatrol_1H
+      takeName: SmHuma_Goblin_IdlePatrol_1H
+      internalID: 5081685254390458999
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_IdlePatrol_Random01_1H
+      takeName: SmHuma_Goblin_IdlePatrol_Random01_1H
+      internalID: 8757444711124882300
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_IdlePatrol_Random02_1H
+      takeName: SmHuma_Goblin_IdlePatrol_Random02_1H
+      internalID: 2493078838578630301
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_IdleRecoil_1h
+      takeName: SmHuma_Goblin_IdleRecoil_1h
+      internalID: 1144887457457612980
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_IdleToShieldBlock_1H
+      takeName: SmHuma_Goblin_IdleToShieldBlock_1H
+      internalID: -2919294139961816287
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveLeft_1H
+      takeName: SmHuma_Goblin_MoveLeft_1H
+      internalID: -1666204175804913098
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveLeft_1H_Attack
+      takeName: SmHuma_Goblin_MoveLeft_1H_Attack
+      internalID: -7509372549111043187
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveLeftShort_1H
+      takeName: SmHuma_Goblin_MoveLeftShort_1H
+      internalID: 8750495831212942093
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveRight_1H
+      takeName: SmHuma_Goblin_MoveRight_1H
+      internalID: 6183842368928541064
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveRight_1H_Attack
+      takeName: SmHuma_Goblin_MoveRight_1H_Attack
+      internalID: 7539144915662742629
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_MoveRightShort_1H
+      takeName: SmHuma_Goblin_MoveRightShort_1H
+      internalID: -6489593110785831020
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_RecoilLeft_1H
+      takeName: SmHuma_Goblin_RecoilLeft_1H
+      internalID: -2575904522840482541
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_RecoilRight_1H
+      takeName: SmHuma_Goblin_RecoilRight_1H
+      internalID: -7652741338795638346
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_RunForward_1H
+      takeName: SmHuma_Goblin_RunForward_1H
+      internalID: -8615371248301296890
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_ShieldBlock_1H
+      takeName: SmHuma_Goblin_ShieldBlock_1H
+      internalID: -3519806202109416586
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_ShieldBlock_Lower_1H
+      takeName: SmHuma_Goblin_ShieldBlock_Lower_1H
+      internalID: 7207654681003082798
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_ShieldBlock_Optimal_Reaction_1H
+      takeName: SmHuma_Goblin_ShieldBlock_Optimal_Reaction_1H
+      internalID: 9074695327401884420
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_ShieldBlockReaction_1H
+      takeName: SmHuma_Goblin_ShieldBlockReaction_1H
+      internalID: -6970414675198292857
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_SpellCasting_Enter
+      takeName: SmHuma_Goblin_SpellCasting_Enter
+      internalID: 4936025865291667129
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_SpellCasting_Exit
+      takeName: SmHuma_Goblin_SpellCasting_Exit
+      internalID: -8006671516127265145
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_SpellCasting_Loop
+      takeName: SmHuma_Goblin_SpellCasting_Loop
+      internalID: 2797817017744870250
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_StaggerBack_1H
+      takeName: SmHuma_Goblin_StaggerBack_1H
+      internalID: 3363229367728157558
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_StaggerLeft_1H
+      takeName: SmHuma_Goblin_StaggerLeft_1H
+      internalID: -6107573913115546880
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_StaggerRight_1H
+      takeName: SmHuma_Goblin_StaggerRight_1H
+      internalID: -3248996384479881671
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WalkForward_1H
+      takeName: SmHuma_Goblin_WalkForward_1H
+      internalID: -6174017065878310905
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WeaponBlock_1H
+      takeName: SmHuma_Goblin_WeaponBlock_1H
+      internalID: 4396274797689265273
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WeaponBlock_Enter_1H
+      takeName: SmHuma_Goblin_WeaponBlock_Enter_1H
+      internalID: 3408245100978386019
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WeaponBlock_Lower_1H
+      takeName: SmHuma_Goblin_WeaponBlock_Lower_1H
+      internalID: -1888855221430834599
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WeaponBlock_Lower_Reaction_1H
+      takeName: SmHuma_Goblin_WeaponBlock_Lower_Reaction_1H
+      internalID: -7075274740810218523
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmHuma_Goblin_WeaponBlock_Optimal_Reaction_1H
+      takeName: SmHuma_Goblin_WeaponBlock_Optimal_Reaction_1H
+      internalID: 2845819739344242713
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: 'NPC COM [COM ]'
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Thigh [LThg]'
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Thigh [RThg]'
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Calf [LClf]'
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Calf [RClf]'
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Foot [LLft ]'
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Foot [Rft ]'
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Spine [Spn0]'
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Spine1 [Spn1]'
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Neck [Neck]'
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Head [Head]'
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Clavicle [LClv]'
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Clavicle [RClv]'
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L UpperArm [LUar]'
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R UpperArm [RUar]'
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Forearm [LLar]'
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Forearm [RLar]'
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Hand [LHnd]'
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Hand [RHnd]'
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Toe0 [LToe]'
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Toe0 [RToe]'
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NPC EarL_1
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NPC EarR_1
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Head [Jaw ]'
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger00 [LF00]'
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger01 [LF01]'
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger02 [LF02]'
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger10 [LF10]'
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger11 [LF11]'
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger12 [LF12]'
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger20 [LF20]'
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger21 [LF21]'
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger22 [LF22]'
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger30 [LF30]'
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger31 [LF31]'
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger32 [LF32]'
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger40 [LF40]'
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger41 [LF41]'
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC L Finger42 [LF42]'
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger00 [RF00]'
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger01 [RF01]'
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NPC R Finger01 [RF01] 1
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger10 [RF10]'
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger11 [RF11]'
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger12 [RF12]'
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger20 [RF20]'
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger21 [RF21]'
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger22 [RF22]'
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger30 [RF30]'
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger31 [RF31]'
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger32 [RF32]'
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger40 [RF40]'
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger41 [RF41]'
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC R Finger42 [RF42]'
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 'NPC Spine2 [Spn2]'
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Goblin_Skeleton(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goblin_Skeleton
+      parentName: Goblin_Skeleton(Clone)
+      position: {x: -0, y: 0.0077479146, z: 0.001305144}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_armor
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_armor02
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_body
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_helmet02
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_helmetz
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin_leather
+      parentName: Goblin_Skeleton
+      position: {x: -0, y: 0.001305144, z: -0.0077479146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NPC
+      parentName: Goblin_Skeleton(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 8.659561e-17, y: 0.7071068, z: 0.7071068, w: -1.5530789e-24}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 'NPC Root [Root]'
+      parentName: NPC
+      position: {x: 1.3248139e-25, y: -2.42261e-11, z: -8.663971e-18}
+      rotation: {x: 0.000000113247, y: -5.6254143e-15, z: -0.00000004967385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 'NPC COM [COM ]'
+      parentName: 'NPC Root [Root]'
+      position: {x: -1.6022525e-12, y: 0.000016129738, z: 0.00880892}
+      rotation: {x: -0.097722955, y: 0.09600385, z: -0.06860524, w: 0.9881937}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: 'NPC Pelvis [Pelv]'
+      parentName: 'NPC COM [COM ]'
+      position: {x: -0, y: -7.450582e-11, z: 0}
+      rotation: {x: -0.03735991, y: -0.10443007, z: 0.05493449, w: 0.9923109}
+      scale: {x: 1.0000008, y: 1.0000026, z: 1.0000001}
+    - name: NPC LoinCloth_B_01
+      parentName: 'NPC Pelvis [Pelv]'
+      position: {x: -7.4505824e-10, y: -0.00095272897, z: 0.00009728791}
+      rotation: {x: 0.9914449, y: 0.0000000074505797, z: 0.000000004889443, w: -0.1305262}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: NPC LoinCloth_B_02
+      parentName: NPC LoinCloth_B_01
+      position: {x: 3.7252906e-11, y: 0, z: 0.00087386323}
+      rotation: {x: -0, y: -0.000000014773678, z: 0.000000001944992, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000004}
+    - name: NPC LoinCloth_B_03
+      parentName: NPC LoinCloth_B_02
+      position: {x: -0, y: 7.450582e-11, z: 0.0010595589}
+      rotation: {x: -0.0140230935, y: 0.13341396, z: -0.002986649, w: 0.9909567}
+      scale: {x: 0.9999996, y: 0.9999999, z: 0.9999997}
+    - name: NPC LoinCloth_B_04
+      parentName: NPC LoinCloth_B_03
+      position: {x: -0, y: 0, z: 0.0017477265}
+      rotation: {x: 0.0075984513, y: -0.08593585, z: 0.0008570188, w: 0.9962714}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 'NPC R Thigh [RThg]'
+      parentName: 'NPC Pelvis [Pelv]'
+      position: {x: -0.00085854693, y: -0.0001247579, z: 0.000128141}
+      rotation: {x: 0.027839243, y: -0.96641165, z: -0.24707755, w: 0.06500918}
+      scale: {x: 1.0000011, y: 1.0000014, z: 1.0000002}
+    - name: 'NPC R Calf [RClf]'
+      parentName: 'NPC R Thigh [RThg]'
+      position: {x: 1.2034952e-10, y: 2.7397064e-16, z: 0.0045214086}
+      rotation: {x: 0.33789623, y: 0.023293694, z: -0.0007779206, w: 0.9408948}
+      scale: {x: 1, y: 0.9999969, z: 1.0000023}
+    - name: 'NPC R Foot [Rft ]'
+      parentName: 'NPC R Calf [RClf]'
+      position: {x: 3.2804304e-11, y: -3.0506922e-10, z: 0.0036369124}
+      rotation: {x: -0.65444314, y: -0.0917436, z: 0.0039942996, w: 0.75051403}
+      scale: {x: 1.0000008, y: 0.9999995, z: 0.9999982}
+    - name: 'NPC R Toe0 [RToe]'
+      parentName: 'NPC R Foot [Rft ]'
+      position: {x: -0.000000003874302, y: -0.0000016589462, z: 0.0020028874}
+      rotation: {x: -0.29547068, y: -0.0016674546, z: -0.0005155354, w: 0.9553503}
+      scale: {x: 0.99999976, y: 1.0000007, z: 0.99999964}
+    - name: NPC LoinCloth_F_01
+      parentName: 'NPC Pelvis [Pelv]'
+      position: {x: -2.9802324e-10, y: 0.0012140201, z: 0.00035699256}
+      rotation: {x: 0.9914449, y: 0.00000004470348, z: 0.0000000027939675, w: -0.13052626}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000001}
+    - name: NPC LoinCloth_F_02
+      parentName: NPC LoinCloth_F_01
+      position: {x: -1.1175872e-10, y: -1.4901162e-10, z: 0.0008111372}
+      rotation: {x: 0.000000029802319, y: -0.000000010712989, z: 0.000000039924107, w: 1}
+      scale: {x: 1.0000006, y: 1, z: 1.0000002}
+    - name: NPC LoinCloth_F_03
+      parentName: NPC LoinCloth_F_02
+      position: {x: -1.6763829e-10, y: 2.235154e-10, z: 0.0010421413}
+      rotation: {x: -0.007857709, y: -0.020806039, z: 0.000030519353, w: 0.99975264}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: NPC LoinCloth_F_04
+      parentName: NPC LoinCloth_F_03
+      position: {x: 1.9633803e-10, y: 4.4334048e-10, z: 0.0010624168}
+      rotation: {x: 0.00020400148, y: 0.00430982, z: -0.000029505283, w: 0.9999907}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: 'NPC L Thigh [LThg]'
+      parentName: 'NPC Pelvis [Pelv]'
+      position: {x: 0.00085854664, y: -0.00012475802, z: 0.000128141}
+      rotation: {x: -0.027839292, y: -0.96641165, z: -0.24707745, w: -0.0650093}
+      scale: {x: 1.0000005, y: 1.0000017, z: 1.0000012}
+    - name: 'NPC L Calf [LClf]'
+      parentName: 'NPC L Thigh [LThg]'
+      position: {x: 7.726333e-11, y: 1.82126e-10, z: 0.004521414}
+      rotation: {x: 0.33794358, y: -0.023146575, z: 0.0008537787, w: 0.9408814}
+      scale: {x: 0.99999964, y: 0.99999714, z: 1.0000031}
+    - name: 'NPC L Foot [LLft ]'
+      parentName: 'NPC L Calf [LClf]'
+      position: {x: 8.254456e-11, y: -1.4901247e-10, z: 0.0036369124}
+      rotation: {x: -0.65453595, y: 0.09138128, z: -0.0038941614, w: 0.7504779}
+      scale: {x: 0.9999995, y: 1.0000006, z: 0.99999976}
+    - name: 'NPC L Toe0 [LToe]'
+      parentName: 'NPC L Foot [LLft ]'
+      position: {x: 0.0000000041723256, y: -0.0000016587974, z: 0.0020028884}
+      rotation: {x: -0.29539946, y: 0.0019895732, z: 0.00061532855, w: 0.9553716}
+      scale: {x: 1, y: 0.99999905, z: 1.0000006}
+    - name: 'NPC Spine [Spn0]'
+      parentName: 'NPC COM [COM ]'
+      position: {x: -8.195639e-10, y: -0.00053243176, z: 0.00038527325}
+      rotation: {x: -0.08279043, y: -0.1068375, z: 0.050092224, w: 0.9895566}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1}
+    - name: 'NPC Spine1 [Spn1]'
+      parentName: 'NPC Spine [Spn0]'
+      position: {x: -3.7252906e-11, y: -1.4901162e-10, z: 0.0014631422}
+      rotation: {x: -0.013864404, y: -0.000000052154057, z: 0.00000006705522, w: 0.999904}
+      scale: {x: 1.0000014, y: 1.0000011, z: 1.0000007}
+    - name: Attach_SheathWeapon
+      parentName: 'NPC Spine1 [Spn1]'
+      position: {x: -0.0014684381, y: -0.00022990828, z: -0.0009398699}
+      rotation: {x: 0.2159244, y: 0.62050945, z: 0.73127836, w: -0.1832394}
+      scale: {x: 1, y: 1, z: 0.9999996}
+    - name: 'NPC Spine2 [Spn2]'
+      parentName: 'NPC Spine1 [Spn1]'
+      position: {x: -2.2351744e-10, y: -0.0000017380712, z: 0.001164018}
+      rotation: {x: 0.032965854, y: -0.0000002474028, z: 0.0000004848092, w: 0.9994565}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000008}
+    - name: Attach_SheathBow
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 0.0007200091, y: -0.0007244785, z: -0.0008921714}
+      rotation: {x: 0.15764953, y: 0.8129669, z: -0.55283505, w: 0.09276247}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Attach_SheathQuiver
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 0.001070473, y: 0.00042678122, z: -0.0027728071}
+      rotation: {x: 0.15338513, y: 0.80833125, z: -0.5504171, w: 0.14182574}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Attach_SheathSpear
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 0.00018562323, y: -0.0012996992, z: 0.00025434908}
+      rotation: {x: 0.15064225, y: 0.54572207, z: 0.8197439, w: -0.086685136}
+      scale: {x: 1, y: 0.9999997, z: 0.9999999}
+    - name: MagicEffectsNode
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 9.197026e-10, y: 0.0006839742, z: 0.00037684082}
+      rotation: {x: -0.000000008113138, y: -0.13578077, z: 0.9907389, w: -0.0000000011119056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 'NPC R Clavicle [RClv]'
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: -0.00044625893, y: 0.00025799812, z: 0.0016310473}
+      rotation: {x: -0.11968277, y: -0.79717, z: 0.02345163, w: 0.59130883}
+      scale: {x: 0.99999964, y: 1.000001, z: 0.9999993}
+    - name: 'NPC R UpperArm [RUar]'
+      parentName: 'NPC R Clavicle [RClv]'
+      position: {x: -1.9092039e-10, y: 0, z: 0.0014766749}
+      rotation: {x: -0.0099273715, y: 0.13102137, z: -0.5182383, w: 0.8450823}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000015}
+    - name: NPC R UpperarmTwist1
+      parentName: 'NPC R UpperArm [RUar]'
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0041619223, y: 0.7070939, z: 0.004161915, w: 0.7070952}
+      scale: {x: 1, y: 0.9999993, z: 1}
+    - name: NPC R UpperarmTwist2
+      parentName: NPC R UpperarmTwist1
+      position: {x: -0.000715381, y: 2.9802324e-10, z: -5.960465e-10}
+      rotation: {x: 0.000000037252903, y: 0.000000029802326, z: -0.000000018626451, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: 'NPC R Forearm [RLar]'
+      parentName: 'NPC R UpperArm [RUar]'
+      position: {x: -5.9604677e-10, y: 4.6565862e-11, z: 0.0027681098}
+      rotation: {x: -0.03793669, y: 0.024403919, z: -0.0038971198, w: 0.99897456}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: NPC R ForearmTwist1
+      parentName: 'NPC R Forearm [RLar]'
+      position: {x: -0.000000018477442, y: 0.0000000053644182, z: 0.00102803}
+      rotation: {x: -0.15636061, y: 0.68959826, z: 0.15635487, w: 0.6896077}
+      scale: {x: 0.9999997, y: 1.000002, z: 0.9999983}
+    - name: NPC R ForearmTwist2
+      parentName: 'NPC R Forearm [RLar]'
+      position: {x: 0.00000002264977, y: 0.0000000017881391, z: 0.00047135205}
+      rotation: {x: -0.11212669, y: 0.698157, z: 0.11212567, w: 0.69816345}
+      scale: {x: 0.9999994, y: 1.000001, z: 0.9999999}
+    - name: 'NPC R Hand [RHnd]'
+      parentName: 'NPC R Forearm [RLar]'
+      position: {x: -3.3527656e-10, y: -2.8405356e-10, z: 0.002277225}
+      rotation: {x: 0.07460657, y: -0.02135033, z: -0.49327543, w: 0.8664049}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
+    - name: Attach_HandRight
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: 0.000032865548, y: -0.00029086173, z: 0.0011024281}
+      rotation: {x: 0.5510583, y: -0.49677852, z: 0.35551384, w: 0.5684679}
+      scale: {x: 1.000001, y: 1, z: 0.9999977}
+    - name: 'NPC R MagicNode [RMag]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: 0.0000000012665992, y: -0.00043568728, z: 0.0012445822}
+      rotation: {x: 0.0000015199198, y: -0.00000088708236, z: 0.0000008684585, w: 1}
+      scale: {x: 1.000001, y: 0.9999995, z: 0.9999986}
+    - name: 'NPC R Finger00 [RF00]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: -0.00039412722, y: -0.00003700496, z: 0.00046828215}
+      rotation: {x: -0.2883308, y: -0.28778735, z: 0.52015513, w: 0.7506547}
+      scale: {x: 1.000001, y: 0.9999994, z: 0.9999989}
+    - name: 'NPC R Finger01 [RF01]'
+      parentName: 'NPC R Finger00 [RF00]'
+      position: {x: 3.3526823e-10, y: -3.725163e-11, z: 0.00030901344}
+      rotation: {x: 0.039381333, y: 0.000100463534, z: 0.0030153142, w: 0.9992197}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.99999964}
+    - name: NPC R Finger01 [RF01] 1
+      parentName: 'NPC R Finger01 [RF01]'
+      position: {x: -0, y: 0, z: 0.0005631322}
+      rotation: {x: -0.0051155314, y: -0.002430224, z: 0.015187847, w: 0.9998687}
+      scale: {x: 1, y: 1.0000012, z: 0.9999987}
+    - name: 'NPC R Finger30 [RF30]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: 0.00012249741, y: 0.00009952306, z: 0.001169949}
+      rotation: {x: 0.031497803, y: -0.016306715, z: -0.00617169, w: 0.9993518}
+      scale: {x: 1.0000008, y: 1.0000017, z: 1.0000001}
+    - name: 'NPC R Finger31 [RF31]'
+      parentName: 'NPC R Finger30 [RF30]'
+      position: {x: -0, y: 5.960465e-10, z: 0.0005006338}
+      rotation: {x: 0.03338885, y: -0.00000011734656, z: -0.00000010820796, w: 0.9994425}
+      scale: {x: 0.99999976, y: 1.0000007, z: 0.99999833}
+    - name: 'NPC R Finger32 [RF32]'
+      parentName: 'NPC R Finger31 [RF31]'
+      position: {x: -1.1175903e-10, y: 1.4901166e-10, z: 0.00034825006}
+      rotation: {x: 0.21283792, y: 0.000000010547603, z: -0.00000018187734, w: 0.97708756}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1}
+    - name: 'NPC R Finger40 [RF40]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: 0.0003559142, y: 0.00004711152, z: 0.0011594883}
+      rotation: {x: 0.026574865, y: -0.020011738, z: -0.010630375, w: 0.99938995}
+      scale: {x: 1.0000005, y: 1.0000021, z: 0.99999833}
+    - name: 'NPC R Finger41 [RF41]'
+      parentName: 'NPC R Finger40 [RF40]'
+      position: {x: 1.103759e-11, y: -2.975398e-16, z: 0.00044437643}
+      rotation: {x: 0.037907045, y: 0.00000056624384, z: 0.00000012299273, w: 0.9992813}
+      scale: {x: 1.0000001, y: 0.9999994, z: 1.0000001}
+    - name: 'NPC R Finger42 [RF42]'
+      parentName: 'NPC R Finger41 [RF41]'
+      position: {x: -0, y: 2.9802324e-10, z: 0.00027443533}
+      rotation: {x: 0.15582493, y: 0.00000008940697, z: -0.000000014901161, w: 0.98778474}
+      scale: {x: 1, y: 0.9999988, z: 1.0000006}
+    - name: 'NPC R Finger10 [RF10]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: -0.00035233027, y: 0.000043092372, z: 0.0011190001}
+      rotation: {x: 0.033304684, y: -0.07328976, z: 0.0068135727, w: 0.9967312}
+      scale: {x: 1.0000004, y: 0.99999964, z: 0.9999993}
+    - name: 'NPC R Finger11 [RF11]'
+      parentName: 'NPC R Finger10 [RF10]'
+      position: {x: -2.9802324e-10, y: 5.960465e-10, z: 0.00047002407}
+      rotation: {x: 0.034547895, y: -0.0000007376068, z: -0.00000012293447, w: 0.99940306}
+      scale: {x: 0.9999999, y: 1.0000017, z: 0.99999845}
+    - name: 'NPC R Finger12 [RF12]'
+      parentName: 'NPC R Finger11 [RF11]'
+      position: {x: -1.4901162e-10, y: 0, z: 0.00034829913}
+      rotation: {x: 0.16987392, y: 0.000000014901161, z: -0.00000008940697, w: 0.9854658}
+      scale: {x: 1, y: 1.0000001, z: 1.000001}
+    - name: 'NPC R Finger20 [RF20]'
+      parentName: 'NPC R Hand [RHnd]'
+      position: {x: -0.00011544753, y: 0.00009991647, z: 0.001180844}
+      rotation: {x: 0.03583021, y: -0.05904198, z: 0.042219155, w: 0.9967185}
+      scale: {x: 1.0000005, y: 1.0000011, z: 0.9999999}
+    - name: 'NPC R Finger21 [RF21]'
+      parentName: 'NPC R Finger20 [RF20]'
+      position: {x: 1.4901162e-10, y: 5.960465e-10, z: 0.00049730367}
+      rotation: {x: 0.033506155, y: 0.0000002309678, z: 0.0000003441234, w: 0.9994386}
+      scale: {x: 0.9999999, y: 1.0000018, z: 0.99999714}
+    - name: 'NPC R Finger22 [RF22]'
+      parentName: 'NPC R Finger21 [RF21]'
+      position: {x: 2.9802324e-10, y: 2.9802324e-10, z: 0.00038505206}
+      rotation: {x: 0.17554787, y: 0.0000000023887106, z: 0.00000004888482, w: 0.98447096}
+      scale: {x: 1.0000004, y: 1, z: 1.0000011}
+    - name: 'NPC L Clavicle [LClv]'
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 0.00044625893, y: 0.00025799873, z: 0.0016310473}
+      rotation: {x: 0.119682014, y: -0.7971696, z: 0.023452362, w: -0.5913095}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000004}
+    - name: 'NPC L UpperArm [LUar]'
+      parentName: 'NPC L Clavicle [LClv]'
+      position: {x: -0.0000000011920931, y: 5.960465e-10, z: 0.001476675}
+      rotation: {x: -0.009927044, y: -0.13102143, z: 0.5182384, w: 0.84508216}
+      scale: {x: 0.9999994, y: 0.9999999, z: 0.9999989}
+    - name: NPC L UpperarmTwist1
+      parentName: 'NPC L UpperArm [LUar]'
+      position: {x: 0.0000000011920931, y: 5.960465e-10, z: 0}
+      rotation: {x: 0.7071075, y: -4.3297767e-17, z: -0.7071062, w: -4.3297846e-17}
+      scale: {x: 1, y: 0.9999996, z: 1.000001}
+    - name: NPC L UpperarmTwist2
+      parentName: NPC L UpperarmTwist1
+      position: {x: -0.0007153821, y: 0, z: -5.960465e-10}
+      rotation: {x: -0.00000026077026, y: 0.0000002831221, z: 0.000000007450656, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: 'NPC L Forearm [LLar]'
+      parentName: 'NPC L UpperArm [LUar]'
+      position: {x: -1.11759144e-10, y: 8.382122e-11, z: 0.0027681086}
+      rotation: {x: -0.037936166, y: -0.02440431, z: 0.0038972334, w: 0.9989745}
+      scale: {x: 1.0000001, y: 1.0000008, z: 0.99999857}
+    - name: 'NPC L Hand [LHnd]'
+      parentName: 'NPC L Forearm [LLar]'
+      position: {x: -0, y: 2.9802324e-10, z: 0.002277225}
+      rotation: {x: 0.07460651, y: 0.021350518, z: 0.49327546, w: 0.8664049}
+      scale: {x: 0.9999995, y: 0.99999917, z: 1.0000007}
+    - name: Attach_HandLeft
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: 7.450499e-11, y: -0.0002473774, z: 0.0007274633}
+      rotation: {x: 0.5792279, y: 0.57922804, z: -0.40557978, w: 0.4055798}
+      scale: {x: 0.9999982, y: 0.9999994, z: 0.9999992}
+    - name: 'NPC L MagicNode [LMag]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: -0, y: -0.00043569162, z: 0.0012445871}
+      rotation: {x: 4.351327e-14, y: -0.000000059604627, z: -0.00000010430823, w: 1}
+      scale: {x: 0.9999987, y: 1, z: 0.999997}
+    - name: 'NPC L Finger00 [LF00]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: 0.00039412687, y: -0.000037006143, z: 0.00046828244}
+      rotation: {x: -0.2883306, y: 0.28778875, z: -0.5201559, w: 0.75065374}
+      scale: {x: 0.9999993, y: 1.000002, z: 0.99999964}
+    - name: 'NPC L Finger01 [LF01]'
+      parentName: 'NPC L Finger00 [LF00]'
+      position: {x: -3.2009745e-10, y: -1.1589589e-10, z: 0.00030901303}
+      rotation: {x: 0.039383408, y: -0.00009912241, z: -0.003015075, w: 0.9992196}
+      scale: {x: 0.99999976, y: 1, z: 1.0000008}
+    - name: 'NPC L Finger02 [LF02]'
+      parentName: 'NPC L Finger01 [LF01]'
+      position: {x: -7.174531e-11, y: -2.345534e-10, z: 0.0005631327}
+      rotation: {x: -0.005115315, y: 0.0024303896, z: -0.015188067, w: 0.9998687}
+      scale: {x: 0.99999964, y: 0.9999993, z: 1.0000005}
+    - name: 'NPC L Finger30 [LF30]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: -0.0001224971, y: 0.00009952306, z: 0.001169949}
+      rotation: {x: 0.03149586, y: 0.016306821, z: 0.0061718025, w: 0.99935186}
+      scale: {x: 0.9999995, y: 0.99999964, z: 0.99999976}
+    - name: 'NPC L Finger31 [LF31]'
+      parentName: 'NPC L Finger30 [LF30]'
+      position: {x: -5.960465e-10, y: 0, z: 0.0005006338}
+      rotation: {x: 0.03338831, y: -0.0000025127063, z: 0.00000031711508, w: 0.99944246}
+      scale: {x: 1.0000001, y: 1.0000013, z: 1.0000004}
+    - name: 'NPC L Finger32 [LF32]'
+      parentName: 'NPC L Finger31 [LF31]'
+      position: {x: 4.359971e-10, y: -2.7594801e-10, z: 0.00034825102}
+      rotation: {x: 0.212838, y: 0.00000006487241, z: 0.000000113968916, w: 0.97708756}
+      scale: {x: 0.9999999, y: 0.99999964, z: 1.0000004}
+    - name: 'NPC L Finger40 [LF40]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: -0.00035591543, y: 0.000047110923, z: 0.0011594888}
+      rotation: {x: 0.0265745, y: 0.020011947, z: 0.010630363, w: 0.99938995}
+      scale: {x: 0.99999976, y: 1.0000008, z: 0.99999905}
+    - name: 'NPC L Finger41 [LF41]'
+      parentName: 'NPC L Finger40 [LF40]'
+      position: {x: -0, y: 0, z: 0.0004443756}
+      rotation: {x: 0.037909504, y: 0.0000015236426, z: -0.00000005163016, w: 0.9992812}
+      scale: {x: 0.99999964, y: 0.9999995, z: 1.0000014}
+    - name: 'NPC L Finger42 [LF42]'
+      parentName: 'NPC L Finger41 [LF41]'
+      position: {x: -0, y: 1.4901162e-10, z: 0.00027443533}
+      rotation: {x: 0.1558249, y: -0, z: 0.000000014901161, w: 0.98778474}
+      scale: {x: 1.0000001, y: 1, z: 1.000001}
+    - name: 'NPC L Finger10 [LF10]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: 0.00035233027, y: 0.000043092972, z: 0.0011190001}
+      rotation: {x: 0.0333023, y: 0.07328928, z: -0.006813252, w: 0.9967313}
+      scale: {x: 0.99999857, y: 1, z: 1.0000004}
+    - name: 'NPC L Finger11 [LF11]'
+      parentName: 'NPC L Finger10 [LF10]'
+      position: {x: -0, y: 0, z: 0.0004700244}
+      rotation: {x: 0.034551296, y: -0.00000091642084, z: -0.00000011362128, w: 0.99940294}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000008}
+    - name: 'NPC L Finger12 [LF12]'
+      parentName: 'NPC L Finger11 [LF11]'
+      position: {x: -5.960465e-10, y: 2.9802324e-10, z: 0.00034829852}
+      rotation: {x: 0.16987409, y: 0.000000029802326, z: 0.000000104308135, w: 0.9854658}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.9999999}
+    - name: 'NPC L Finger20 [LF20]'
+      parentName: 'NPC L Hand [LHnd]'
+      position: {x: 0.00011544762, y: 0.00009991647, z: 0.001180844}
+      rotation: {x: 0.035829153, y: 0.059041824, z: -0.042219024, w: 0.9967186}
+      scale: {x: 0.99999917, y: 0.99999976, z: 1.0000005}
+    - name: 'NPC L Finger21 [LF21]'
+      parentName: 'NPC L Finger20 [LF20]'
+      position: {x: -5.960465e-10, y: 0, z: 0.00049730367}
+      rotation: {x: 0.03350652, y: 0.000001601874, z: -0.00000038300624, w: 0.9994386}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: 'NPC L Finger22 [LF22]'
+      parentName: 'NPC L Finger21 [LF21]'
+      position: {x: -0, y: 0, z: 0.00038505206}
+      rotation: {x: 0.17554803, y: 0.00000008680003, z: 0.00000003627313, w: 0.9844709}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.9999993}
+    - name: NPC L ForearmTwist1
+      parentName: 'NPC L Forearm [LLar]'
+      position: {x: -0.000000007152558, y: -8.9406976e-10, z: 0.0010280361}
+      rotation: {x: -0.6816366, y: 0.18807326, z: 0.6816368, w: 0.1880725}
+      scale: {x: 0.9999997, y: 1.0000024, z: 0.99999833}
+    - name: NPC L ForearmTwist2
+      parentName: 'NPC L Forearm [LLar]'
+      position: {x: -0.0000000041723256, y: -0.0000000017881391, z: 0.00047134113}
+      rotation: {x: -0.69787335, y: 0.11389835, z: 0.6978734, w: 0.11389759}
+      scale: {x: 1, y: 1.0000019, z: 0.99999964}
+    - name: 'NPC Neck [Neck]'
+      parentName: 'NPC Spine2 [Spn2]'
+      position: {x: 0.0000000028312213, y: 0.000257377, z: 0.0016310632}
+      rotation: {x: 0.08563396, y: -0.0007828386, z: 0.0050539374, w: 0.9963135}
+      scale: {x: 1.0000018, y: 1.0000023, z: 1.0000006}
+    - name: 'NPC Head [Head]'
+      parentName: 'NPC Neck [Neck]'
+      position: {x: -0, y: 0, z: 0.00079222815}
+      rotation: {x: 0.247975, y: 0.00176421, z: -0.000022075024, w: 0.96876484}
+      scale: {x: 1.0000019, y: 0.99999976, z: 1.0000005}
+    - name: NPC EarL_1
+      parentName: 'NPC Head [Head]'
+      position: {x: 0.00073291076, y: 0.00051801186, z: 0.0005333484}
+      rotation: {x: 0.54562634, y: 0.21092908, z: 0.12962164, w: 0.8006242}
+      scale: {x: 0.99999976, y: 1.0000005, z: 0.9999994}
+    - name: NPC EarL_2
+      parentName: NPC EarL_1
+      position: {x: 0.000000019669532, y: -0.00000004887582, z: 0.0006884037}
+      rotation: {x: -0.00062787515, y: 0.08101816, z: 0.000012755391, w: 0.9967125}
+      scale: {x: 1, y: 1.0000008, z: 1.000001}
+    - name: NPC EarR_1
+      parentName: 'NPC Head [Head]'
+      position: {x: -0.0007329111, y: 0.0005180111, z: 0.0005333507}
+      rotation: {x: 0.54562616, y: -0.21092916, z: -0.12962155, w: 0.80062425}
+      scale: {x: 0.9999993, y: 0.9999993, z: 0.99999964}
+    - name: NPC EarR_2
+      parentName: NPC EarR_1
+      position: {x: 0.00000001989305, y: 0.000000035762795, z: 0.00068841944}
+      rotation: {x: -0.00062790496, y: -0.08101804, z: -0.000012844798, w: 0.9967125}
+      scale: {x: 0.99999917, y: 1.0000017, z: 0.9999993}
+    - name: NPC Brow1
+      parentName: 'NPC Head [Head]'
+      position: {x: 0.0000015100841, y: 0.00084412866, z: 0.00080836326}
+      rotation: {x: -0.64878577, y: -0.00000001606531, z: 0.000000019470457, w: 0.7609711}
+      scale: {x: 1.0000008, y: 0.9999999, z: 1.0000002}
+    - name: 'NPC Head [Jaw ]'
+      parentName: 'NPC Head [Head]'
+      position: {x: 0.00000236541, y: 0.000559375, z: 0.00038345347}
+      rotation: {x: -0.953475, y: -0.000000021012958, z: -0.0000000032741798, w: 0.30147225}
+      scale: {x: 1.0000007, y: 1.0000012, z: 0.9999982}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c7d84d6dbc4ff394cafb11e03695ea, type: 3}
+  m_Name: Trans_PressureMoveToCommit
+  m_EditorClassIdentifier: Assembly-CSharp::TheLastHeir.Runtime.Entity.Enemy.TransitionSO
+  targetState: {fileID: 11400000, guid: 0f7202ddc7772402ab5aa08212e558ea, type: 2}
+  conditions:
+  - {fileID: 11400000, guid: b7b23314e9fa146fdb45eb9f89af7fd6, type: 2}
+  - {fileID: 11400000, guid: 14e5c59c38c4842168a64859d4698e45, type: 2}
+  conditionLogic: 0

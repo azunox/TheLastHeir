@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e378bf4f5d549d38af48f8586278b6a, type: 3}
+  m_Name: State_Recover
+  m_EditorClassIdentifier: 
+  enterActions:
+  - {fileID: 11400000, guid: 827300dd264f64acfb4510a0765d084f, type: 2}
+  - {fileID: 11400000, guid: 656a877f12488401e8d22321ff149c0b, type: 2}
+  tickActions:
+  - {fileID: 11400000, guid: 1226b8ea4dc1a4ce9a4b1d0d51b109c9, type: 2}
+  transitions:
+  - {fileID: 11400000, guid: 369f6b7b753ff475d8bbe26232706605, type: 2}
+  - {fileID: 11400000, guid: da6ad3429a16f4effb9682b33958f5ee, type: 2}
+  - {fileID: 11400000, guid: fee7359f7e51c4b0abeea996727f2885, type: 2}
+  - {fileID: 11400000, guid: 59e1047e0f9e143c2a8aaced17fc4f41, type: 2}
